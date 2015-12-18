@@ -11,3 +11,7 @@ https://github.com/joomla/joomla-cms/releases/download/3.4.6/Joomla_3.4.6-Stable
 از طریق دسترسی FTP یا Filemanager به بخش libraries بروید.
 سپس پوشه joomla را باز نمایید و سپس به پوشه session مراجعه نمایید .
 در داخل آن فایل session.php وجود دارد که می بایست اقدام به حذف آن نمایید و طبق نسخه خودتان فایل جایگزینه را از آدرس زیر دانلود نموده و آن را جایگزین نسخه فعلی خودتان نمایید.
+
+
+http://www.ehost.ir/billing/announcements.php?id=77
+http://www.ehost.ir/
