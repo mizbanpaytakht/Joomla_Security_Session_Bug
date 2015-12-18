@@ -5,6 +5,7 @@ Joomla_Security_Session_Bug 1.5 - 2.5 - 3
 
 رفع مشکل در جوملا 3:
 برای رفع مشکل در جوملا 3 اقدام به بروزرسانی نسخه جوملا با آخرین نسخه آن نمایید، بدین منظور به قسمت کامپوننت ها و سپس بخش بروز رسانی نسخه جوملا رفته و دکمه پاکسازی کش را انتخاب نمایید و سپس نسخه جوملا خودتان را بروز نمایید و یا از قسمت افزونه ها -> مدیریت افزونه ها، گزینه نصب از آدرس وب را زده و از لینک زیر استفاده نمایید و دکمه نصب را بزنید.
+<br />
 https://github.com/joomla/joomla-cms/releases/download/3.4.6/Joomla_3.4.6-Stable-Update_Package.zip 
  
 رفع مشکل برای جوملا 2.5 و جوملای 1.5:
@@ -14,4 +15,5 @@ https://github.com/joomla/joomla-cms/releases/download/3.4.6/Joomla_3.4.6-Stable
 
 
 http://www.ehost.ir/billing/announcements.php?id=77
+<br />
 http://www.ehost.ir/
