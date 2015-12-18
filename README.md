@@ -1,7 +1,7 @@
 # Joomla_Security_Session_Bug
 Joomla_Security_Session_Bug 1.5 - 2.5 - 3
 
-<p style="direction:rtl;font-family:tahoma">
+<p style="direction:rtl;font-family:tahoma" dir="rtl">
 در 48 ساعت گذشته 2 هشدار امنیتی سطح بالا از سوی تیم توسعه دهنده جوملا گزارش شده است که این موضوع امنیتی برای تمامی نسخه های جوملا می باشد لذا لطفا در اسرع وقت اقدام به بروزرسانی مدیریت محتوا خود به آخرین نسخه نمایید و این مشکل را جدی بگیرید.
 </p>
 <p style="direction:rtl;font-family:tahoma">
@@ -10,7 +10,7 @@ Joomla_Security_Session_Bug 1.5 - 2.5 - 3
 </p>
 https://github.com/joomla/joomla-cms/releases/download/3.4.6/Joomla_3.4.6-Stable-Update_Package.zip 
  
- <p style="direction:rtl;font-family:tahoma">
+ <p style="direction:rtl;font-family:tahoma" dir="rtl">
 <b>رفع مشکل برای جوملا 2.5 و جوملای 1.5:</b>
 از طریق دسترسی FTP یا Filemanager به بخش libraries بروید.
 سپس پوشه joomla را باز نمایید و سپس به پوشه session مراجعه نمایید .
